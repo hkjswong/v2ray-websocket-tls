@@ -3,6 +3,15 @@
 - 準備一個域名並解析
 - 一台vps，我這邊用的debian的系統
 
+> 安卓客戶端：https://github.com/2dust/v2rayNG/releases
+
+> ios：shadowrocket
+
+> windows：https://github.com/2dust/v2rayN/releases
+
+> macOS：https://github.com/yanue/V2rayU/releases
+
+
 ---
 
 ### 聯繫方式 :bell:
