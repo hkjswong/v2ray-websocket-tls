@@ -5,6 +5,8 @@
 - 一台伺服器，我這邊用的debian的系統
 - 連結ssh，示範為mac連結的
 
+---
+
 - Telegram：https://t.me/xwring :point_left:
 - 個人TG：https://t.me/kwaong 👈
 - shadowsocksR/ssr購買：[不拘閣](https://affman.top) :point_left:
